@@ -7,7 +7,7 @@
 }
 .word-count-container{
   background-color: #ffffff;
-  box-shadow: 1px 1px 4px 4px lightgray;
+  box-shadow: 1px 1px 4px 4px rgb(203, 197, 197);
   border-radius: 5px;
   height: 350px;
   width: 450px;
@@ -23,7 +23,7 @@
   font-size: 30px;
 }
 .input-words{
-  border-radius: 5px;
+  border-radius: 15px;
   border: 2px black solid;
   outline: none;
   font-family: "Roboto";
